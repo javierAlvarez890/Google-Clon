@@ -41,5 +41,10 @@ nav .nav-right-section .m-ico{
     background-size: contain;
     width: 25px;
     height: 25px;
-    
+
+}
+
+nav .nav-right-section img{
+    border-radius: 50%;
+    margin-left: 10px;
 }
